@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nom": "Tapis de course",
+    "image": "/images/tapis.jpg",
+    "description": "Un tapis de course de haute qualité, idéal pour vos séances de cardio et d'endurance."
+  },
+  {
+    "id": 2,
+    "nom": "Haltères",
+    "image": "/images/halteres2.jpg",
+    "description": "Des haltères de différents poids pour des entraînements de renforcement musculaire variés."
+  },
+  {
+    "id": 3,
+    "nom": "Machine Papillon",
+    "image": "/images/machine_papillon.jpg",
+    "description": "Une machine idéale pour travailler les muscles pectoraux et renforcer la poitrine."
+  },
+  {
+    "id": 4,
+    "nom": "Banc de Musculation",
+    "image": "/images/bancs.jpg",
+    "description": "Un banc réglable pour effectuer une variété d'exercices de musculation avec des poids libres."
+  }
+]
